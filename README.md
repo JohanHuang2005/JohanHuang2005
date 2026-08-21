@@ -39,20 +39,13 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JohanHuang2005&show_icons=true&theme=transparent&hide_border=true&title_color=3B82A0&icon_color=3B82A0&text_color=57606a&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanHuang2005&layout=compact&theme=transparent&hide_border=true&title_color=3B82A0&text_color=57606a" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JohanHuang2005&theme=transparent&hide_border=true&ring=3B82A0&fire=3B82A0&currStreakLabel=3B82A0" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
-
-### Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohanHuang2005/JohanHuang2005/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JohanHuang2005/JohanHuang2005/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
