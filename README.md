@@ -14,21 +14,21 @@
 - 🤔 I’m looking for help with **career path, lifelong growth, and staying healthy** along the way
 - 💬 Ask me about **anything**
 - 📫 How to reach me:
-  <a href="https://johanhuang2005.github.io"><img src="./profile/icons/web.svg" width="22" height="22" alt="Website" /></a>
-  <a href="mailto:johanhuang@bupt.edu.cn"><img src="./profile/icons/email.svg" width="22" height="22" alt="Email" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139"><img src="./profile/icons/xiaohongshu.svg" width="22" height="22" alt="Xiaohongshu" /></a>
+  [🔗](https://johanhuang2005.github.io)
+  [📧](mailto:johanhuang@bupt.edu.cn)
+  [📕](https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139)
 - ⚡ Fun fact: **football & tennis** keep me sharp between experiments
 
 ---
 
 <p align="center">
-  <a href="https://johanhuang2005.github.io"><img src="./profile/icons/web.svg" width="24" height="24" alt="Website" /></a>
+  <a href="https://johanhuang2005.github.io">🔗</a>
   &nbsp;&nbsp;
-  <a href="mailto:johanhuang@bupt.edu.cn"><img src="./profile/icons/email.svg" width="24" height="24" alt="Email" /></a>
+  <a href="mailto:johanhuang@bupt.edu.cn">📧</a>
   &nbsp;&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139"><img src="./profile/icons/xiaohongshu.svg" width="24" height="24" alt="Xiaohongshu" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139">📕</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/JohanHuang2005"><img src="./profile/icons/github.svg" width="24" height="24" alt="GitHub" /></a>
+  <a href="https://github.com/JohanHuang2005"><img src="./profile/icons/github.svg" width="22" height="22" alt="GitHub" /></a>
 </p>
 
 <p align="center">
