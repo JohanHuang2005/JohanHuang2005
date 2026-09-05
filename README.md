@@ -1,6 +1,8 @@
 # Hi, I'm Johan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=3B82A0&center=true&vCenter=true&width=520&lines=Time-series+world+models;Computer+vision+%26+sensing;Building+with+taste)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=3B82A0&center=true&vCenter=true&width=520&lines=Time-series+world+models;Computer+vision+%26+sensing;Building+with+taste" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   B.Sc. @ BUPT · Computer Vision & Intelligent Sensing · building with taste.
@@ -26,7 +28,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Computer%20Vision-3B82A0?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Machine%20Learning-6B7280?style=flat-square" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/%E6%99%AE%E9%80%82%E8%AE%A1%E7%AE%97-3B82A0?style=flat-square" alt="普适计算" />
+  <img src="https://img.shields.io/badge/Pervasive%20Computing-3B82A0?style=flat-square" alt="Pervasive Computing" />
 </p>
 
 ---
