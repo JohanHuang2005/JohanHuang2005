@@ -14,21 +14,21 @@
 - 🤔 I’m looking for help with **career path, lifelong growth, and staying healthy** along the way
 - 💬 Ask me about **anything**
 - 📫 How to reach me:
-  <a href="https://johanhuang2005.github.io"><img src="https://cdn.simpleicons.org/googlechrome/3B82A0" height="20" alt="Website" /></a>
-  <a href="mailto:johanhuang@bupt.edu.cn"><img src="https://cdn.simpleicons.org/gmail/6B7280" height="20" alt="Email" /></a>
+  <a href="https://johanhuang2005.github.io"><img src="https://cdn.simpleicons.org/githubpages/3B82A0" height="20" alt="Website" /></a>
+  <a href="mailto:johanhuang@bupt.edu.cn"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="20" alt="Email" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="20" alt="Xiaohongshu" /></a>
 - ⚡ Fun fact: **football & tennis** keep me sharp between experiments
 
 ---
 
 <p align="center">
-  <a href="https://johanhuang2005.github.io"><img src="https://cdn.simpleicons.org/googlechrome/3B82A0" height="24" alt="Website" /></a>
+  <a href="https://johanhuang2005.github.io"><img src="https://cdn.simpleicons.org/githubpages/3B82A0" height="24" alt="Website" /></a>
   &nbsp;
-  <a href="mailto:johanhuang@bupt.edu.cn"><img src="https://cdn.simpleicons.org/gmail/6B7280" height="24" alt="Email" /></a>
+  <a href="mailto:johanhuang@bupt.edu.cn"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email" /></a>
   &nbsp;
   <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139"><img src="https://cdn.simpleicons.org/xiaohongshu/FF2442" height="24" alt="Xiaohongshu" /></a>
   &nbsp;
-  <a href="https://github.com/JohanHuang2005"><img src="https://cdn.simpleicons.org/github/181717" height="24" alt="GitHub" /></a>
+  <a href="https://github.com/JohanHuang2005"><img src="https://cdn.simpleicons.org/github/181717/ffffff" height="24" alt="GitHub" /></a>
 </p>
 
 <p align="center">
