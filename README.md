@@ -22,20 +22,11 @@
 ---
 
 <p align="center">
-  <a href="https://johanhuang2005.github.io">🔗</a>
-  &nbsp;&nbsp;
-  <a href="mailto:johanhuang@bupt.edu.cn">📧</a>
-  &nbsp;&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5ed261c1000000000101f139">📕</a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JohanHuang2005"><img src="./profile/icons/github.svg" width="22" height="22" alt="GitHub" /></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Computer%20Vision-3B82A0?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Machine%20Learning-6B7280?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/%E6%99%AE%E9%80%82%E8%AE%A1%E7%AE%97-3B82A0?style=flat-square" alt="普适计算" />
 </p>
 
 ---
