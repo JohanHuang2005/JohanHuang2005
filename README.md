@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on **time-series world models for forecasting** at Siemens DAI R AIX-CN
 - 🌱 I’m currently learning **data structures & algorithms** (rebuilding the foundations)
+- 🏆 **Xiaomi Scholarship** (2025–2026; ≈0.17%) · **National Scholarship** (2023–2024, 2024–2025)
 - 👯 I’m looking to collaborate on **quality open-source** — open to serious collaboration of any kind
 - 🤔 I’m looking for help with **career path, lifelong growth, and staying healthy** along the way
 - 💬 Ask me about **anything**
