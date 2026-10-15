@@ -1,11 +1,11 @@
 # Hi, I'm Johan
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=3B82A0&center=true&vCenter=true&width=520&lines=Time-series+world+models;Computer+vision+%26+sensing;Building+with+taste" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=3B82A0&center=true&vCenter=true&width=520&lines=Perception+%C2%B7+Understanding+%C2%B7+Forecasting;From+constrained+observations+to+reliable+state" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  B.Sc. @ BUPT · Computer Vision & Intelligent Sensing · building with taste.
+  B.Sc. @ BUPT · Perception · Understanding · Forecasting
 </p>
 
 ---
